@@ -28,7 +28,10 @@
 
 
 
-## Nino
+
+
+
+## Nino Fraenk
 
 ### Wat heb ik met deze lessen nieuw geleerd?
 * Ik heb de basis van git en github geleerd.
