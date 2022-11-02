@@ -1,4 +1,4 @@
-# reflectie
+
 
 
 
@@ -29,5 +29,4 @@ Ik wist eigenlijk nog helemaal niks over github. Dus ik wist nog helemaal niks
 
 * Waarvan zou ik nog meer willen weten?
 
-Meer handige dingen over github, zodat ik nog efficienter er mee om kan gaan. En wat handig is voor de toekomst. 
-
+Meer handige dingen over github, zodat ik nog efficienter er mee om kan gaan. En wat handig is voor de toekomst.
