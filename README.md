@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21,6 +22,8 @@ Ik zou nog meer willen weten over handige dingen die je moet weten voor later.
 >>>>>>> ninosdeel
 # reflectie
 >>>>>>> 28d531e686706366225b32d204fab37b471ac4d7
+=======
+>>>>>>> Ben
 
 
 
@@ -40,6 +43,9 @@ Ik zou nog meer willen weten over handige dingen die je moet weten voor later.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Ben
 
 
 
@@ -47,6 +53,7 @@ Ik zou nog meer willen weten over handige dingen die je moet weten voor later.
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -88,3 +95,11 @@ Meer handige dingen over github, zodat ik nog efficienter er mee om kan gaan. En
 >>>>>>> ninosdeel
 >>>>>>> 28d531e686706366225b32d204fab37b471ac4d7
 
+=======
+## Ben- Lassina Diaby
+
+  Wat heb ik met deze lessen geleert?
+ Ik heb geleeerd hoe ik met git in de commandprompt kan werken, door in een repository of branch te werken en switchen met de commandprompt.
+ 
+ Ook heb ik geleerd om te committen, pushen, pullen en mergen in de cammandprompt als je samenwerkt in een team, zodat iedereen in github kan zien wat voor commits je hebt uitgevoerd.
+>>>>>>> Ben
