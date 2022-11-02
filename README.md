@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Cedric Király
 
 * Wat heb ik met deze lessen nieuw geleerd?
@@ -14,6 +15,8 @@ Ik zou nog meer willen weten over handige dingen die je moet weten voor later.
 
 
 =======
+=======
+>>>>>>> ninosdeel
 # reflectie
 
 
@@ -44,5 +47,8 @@ Ik wist eigenlijk nog helemaal niks over github. Dus ik wist nog helemaal niks
 * Waarvan zou ik nog meer willen weten?
   
 Meer handige dingen over github, zodat ik nog efficienter er mee om kan gaan. En wat handig is voor de toekomst. 
+<<<<<<< HEAD
 >>>>>>> Joost
+=======
+>>>>>>> ninosdeel
 
